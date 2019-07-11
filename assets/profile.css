@@ -67,14 +67,14 @@ ul li a:active:before:after{
     border-radius: 2px;
 }
 .atas{
-    background:url(img/profile.jpg);
+    background:url(img/profile.JPG);
     background-size: cover;
     height: 350px;
     width: 100%;
     box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.47);
 }
 .bawahnya{
-    background:url(img/foto_profile.jpg);
+    background:url(img/foto_profile.JPG);
     background-size: cover;
     height: 200px;
     width: 200px;
